@@ -41,3 +41,6 @@ A React-based web application for browsing space-related news articles, built wi
    npm run dev
 ```
 
+![newspaper](https://github.com/user-attachments/assets/960697fc-6536-4486-b3a6-3e1c0818f469)
+
+
