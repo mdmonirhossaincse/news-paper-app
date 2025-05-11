@@ -39,7 +39,8 @@ A React-based web application for browsing space-related news articles, built wi
    cd spacenews
    npm install
    npm run dev
-```
+
+![newspaper](https://github.com/user-attachments/assets/14ee9fd0-30d7-4679-a23e-ea17b66c83f8)
 
 
 
