@@ -35,7 +35,7 @@ A React-based web application for browsing space-related news articles, built wi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/spacenews.git
+   git clone https://github.com/arafatbcse/spacenews.git
    cd spacenews
    npm install
    npm run dev
